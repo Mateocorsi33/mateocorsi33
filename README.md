@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 , Soy Mateo!</h1><p align="right"> <img src="https://komarev.com/ghpvc/?username=mateocorsi33&label=Profile%20views&color=0e75b6&style=flat" alt="mateocorsi33" /></p>
-<h3 align="center">Desarrollador Front End</h3>
+<h3 align="center">Desarrollador</h3>
 
 
 <p align="center"> 
@@ -8,7 +8,7 @@ Estoy entusiasmado por ser parte de un equipo innovador, que me permita seguir c
 
 ✦ 💻 Todos mis proyectos están disponibles en mi portfolio: https://mateocorsi.vercel.app/
 
-✦ 📫 Puedes contactarme a través de mi correo electrónico: **Mateofrontend@gmail.com**
+✦ 📫 Puedes contactarme a través de mi correo electrónico: **Mateocorsi@gmail.com**
 
 <h3 align="left">Encontrame en:</h3>
 
