@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋 , Soy Mateo!</h1><p align="right"> <img src="https://komarev.com/ghpvc/?username=mateocorsi33&label=Profile%20views&color=0e75b6&style=flat" alt="mateocorsi33" /></p>
 <h3 align="center">Desarrollador</h3>
 
-- **Francisco Merlino Dabove**  
-  [francisco_mer004@hotmail.com](mailto:francisco_mer004@hotmail.com)
-- **Mateo Corsi**  
-  [mateocorsi@gmail.com](mailto:mateocorsi@gmail.com)
 <p align="center"> 
 Soy una persona proactiva y comprometida, analítico y detallista, que se refleja en mi capacidad para aprender rápidamente y resolver desafíos. Tengo experiencia con lenguajes de programación como HTML5, CSS3 y JavaScript, también librerías como React, Styled-Components, Tailwind. Además, conocimientos en el diseño UX/UI, experiencia con herramientas como Figma y Adobe XD, pudiendo crear interfaces atractivas y funcionales.
 Estoy entusiasmado por ser parte de un equipo innovador, que me permita seguir creciendo y evolucionando en el mundo del desarrollo web.</p>
